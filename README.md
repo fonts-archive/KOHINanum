@@ -15,7 +15,7 @@ font-family: 'KOHI Nanum';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KOHINanum/KOHINanum.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KOHINanum/KOHINanum.css" type="text/css"/>
 ```
 
 &nbsp;
